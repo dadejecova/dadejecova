@@ -1,25 +1,28 @@
-### ¡Hola soy Daniel!  👋
+# ¡Hola! Soy Daniel
 
-<!--
-**dadejecova/dadejecova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingeniero en Computación | Especialista en Datos & Backend**
 
-Here are some ideas to get you started:
+Apasionado por la arquitectura de software, el Clean Code y la transformación de datos en información útil. Combino mi experiencia en visualización de datos con el desarrollo backend para crear soluciones eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mí
+* Analista Técnico enfocado en la visualización de datos y creación de herramientas de seguimiento para la PMO.
+* Máster en Big Data y Visualización de Datos.
+* Con miras a expandir mi carrera profesional hacia roles Senior a nivel internacional.
 
+### Tech Stack
+* **Desarrollo Backend:** Python, FastAPI, Django, SQL.
+* **Datos & Análisis:** Looker Studio, Streamlit, Jupyter.
+* **Infraestructura & Gestión:** Docker, Sciforma, AppSheet, Git.
 
-### ⚙️ &nbsp;GitHub Analytics
+### ¿En qué estoy trabajando ahora?
+* Construyendo y migrando un **Dashboard Analítico de Pokémon** hacia una arquitectura de microservicios utilizando FastAPI, SQLAlchemy, Streamlit y Docker.
+* Practicando en varios **Challenges** en Kaggle aplicando modelos de Machine Learning.
 
-<p align="center">
-<a href="https://github.com/dadejecova">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dadejecova&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+### Conecta conmigo
+* **LinkedIn:** https://www.linkedin.com/in/danielcoellovargas/
+* **Email:** devdanielcoello@gmail.com
+
+---
+*Estadísticas de GitHub:*
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadejecova&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadejecova&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
