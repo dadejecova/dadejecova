@@ -24,5 +24,13 @@ Apasionado por la arquitectura de software, el Clean Code y la transformación d
 
 ---
 *Estadísticas de GitHub:*
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadejecova&show_icons=true&theme=radical)](https://github.com/dadejecova/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadejecova&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A1DE&width=435&lines=Ingeniero+en+Computaci%C3%B3n;Backend+%7C+Data+Science;Transformando+datos+en+valor" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/dadejecova">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dadejecova&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dadejecova&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook,html,css"/>
+  </a>
+</p>
