@@ -24,5 +24,5 @@ Apasionado por la arquitectura de software, el Clean Code y la transformación d
 
 ---
 *Estadísticas de GitHub:*
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadejecova&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadejecova&show_icons=true&theme=radical)](https://github.com/dadejecova/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadejecova&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
