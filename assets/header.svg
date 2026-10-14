@@ -87,7 +87,7 @@
 
   <text x="304" y="146" class="body-txt">Software Engineer focused on data pipelines, backend systems, and full-stack</text>
   <text x="304" y="166" class="body-txt">architectures that run quietly without midnight surprises.</text>
-  <text x="304" y="194" class="body-txt">Creator of dadejecova.com — interactive courses &amp; Wasm Code Arena.</text>
+  <text x="304" y="194" class="body-txt">Building internal tools, full-stack web apps, and dadejecova.com.</text>
 
   <line x1="304" y1="214" x2="820" y2="214" stroke="#112a3d" stroke-width="1" />
 
