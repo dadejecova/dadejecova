@@ -1,56 +1,54 @@
-# ¡Hola! Soy Daniel
-
-**Ingeniero en Computación | Especialista en Datos & Backend**
-
-Apasionado por la arquitectura de software, el Clean Code y la transformación de datos en información útil. Combino mi experiencia en visualización de datos de forma masiva con el desarrollo backend para crear soluciones eficientes, escalables y orientadas al negocio.
-
-### Sobre mí
-* Analista Técnico enfocado en la automatización de procesos operativos, visualización de datos y creación de herramientas para la PMO.
-* Máster en Análisis y Visualización de Datos Masivos (UNIR).
-* Certificado PCEP™ – Certified Entry-Level Python Programmer.
-* Con miras a expandir mi carrera profesional hacia roles Senior como desarrollador Python a nivel internacional.
-
-### Tech Stack
-**Desarrollo Backend & APIs**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-
-**Frontend & Visualización**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Data Science & Machine Learning**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Infraestructura & Herramientas**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=flat-square&logo=appsheet&logoColor=white)
-
-### ¿En qué estoy trabajando ahora?
-* Construyendo un **Dashboard Analítico de Pokémon** contenerizado usando FastAPI, Streamlit y Docker Compose, implementando un sistema de caché inteligente para optimizar las peticiones a la PokeAPI.
-* Analizando el dataset del **Titanic** en Kaggle utilizando Pandas para afinar mis habilidades en Ingeniería de Datos y Machine Learning.
-* Desarrollando interfaces modernas y robustas explorando tecnologías como Next.js y React.
-
-### 📬 Conecta conmigo
-* **LinkedIn:** [linkedin.com/in/danielcoellovargas](https://www.linkedin.com/in/danielcoellovargas/)
-* **Email:** devdanielcoello@gmail.com
-
----
-*Estadísticas de GitHub:*
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A1DE&width=435&lines=Ingeniero+en+Computaci%C3%B3n;Backend+%7C+Data+Science;Transformando+datos+en+valor" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dadejecova/dadejecova/main/assets/header.svg" alt="Daniel Coello — Software Engineer" width="880"/>
+</p>
 
 <p align="center">
-  <a href="https://github.com/dadejecova">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dadejecova&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dadejecova&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook,html,css"/>
-  </a>
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Ecuador-UTC--5-444444?style=flat" height="22"/>
 </p>
+
+---
+
+Software engineer in Ecuador. I work across data pipelines, internal operational systems, and full-stack web applications, with a strong preference for reliable, predictable architectures that run quietly without midnight surprises.
+
+Currently transitioning into a core IT engineering role, building systems that scale cleanly from day one.
+
+### Stack
+
+**Day to day:**
+- **Python** — Django, FastAPI, automated ETL scripts, database modeling, and internal tools
+- **TypeScript / React** — Next.js (App Router), TailwindCSS, responsive client architectures
+- **PostgreSQL / SQL** — Relational schema design, query optimization, analytics datasets
+- **Docker** — Containerized environments, multi-service orchestration, reproducible local setups
+
+**Active focus & deep dive:**
+- **Rust** — High-performance backend APIs (Axum, SQLx), strict type safety, zero-cost abstractions
+- **WebAssembly** — In-browser sandboxed code execution (Pyodide Web Workers)
+
+### Projects
+
+- **[dadejecova_V01](https://github.com/dadejecova/dadejecova_V01)**  
+  Full-stack educational platform and developer portfolio monorepo. Features an interactive course curriculum, Markdown rendering, dynamic CV timeline, stateless JWT authentication, and Google Gemini AI code tutoring. Built with Next.js 16, Django 5, PostgreSQL, and Docker.
+
+- **dadejecova v2** *(In Active Development)*  
+  The next-generation rewrite. High-performance decoupled Rust/Axum API backend with compile-time SQLx guarantees, paired with a Next.js client featuring an in-browser **Code Arena** powered by WebAssembly Python sandboxing and AI feedback.
+
+- **[poke-analytics-fastapi](https://github.com/dadejecova/poke-analytics-fastapi)**  
+  Interactive analytical data exploration platform backed by a containerized FastAPI REST service.
+
+### Principles
+
+- Schema migrations should always be reversible and idempotent.
+- Compile-time correctness (Rust / TypeScript) saves hours of runtime firefighting.
+- If a service genuinely does not need a heavyweight infrastructure layer, keep it simple.
+- Code should be written for the engineer who has to debug it at 2am six months from now.
+
+### Connect
+
+- Website: [dadejecova.com](https://dadejecova.com)
+- LinkedIn: [danielcoellovargas](https://www.linkedin.com/in/danielcoellovargas/)
+- GitHub: [dadejecova](https://github.com/dadejecova)
