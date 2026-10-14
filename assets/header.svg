@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 280" width="880" height="280">
+  <defs>
+    <pattern id="blueprint" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#0c2233" stroke-width="0.8"/>
+    </pattern>
+    <linearGradient id="arena-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="45%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#00d2ff" />
+    </linearGradient>
+    <linearGradient id="vr-ring" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#00d2ff" />
+    </linearGradient>
+    <linearGradient id="active-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#092638" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#092638" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .bg { fill: #080b12; }
+    .card { fill: #091019; stroke: #12374c; stroke-width: 1.2; }
+    .sys-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 300; fill: #e2e8f0; letter-spacing: 3px; }
+    .sys-data { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 800; fill: #00d2ff; letter-spacing: 3px; }
+    .sys-log { font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, monospace; font-size: 10px; fill: #00d2ff; letter-spacing: 1px; }
+    .bg-sym { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 15px; fill: #131b2e; font-weight: 600; }
+    .h1 { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 22px; font-weight: 800; fill: #ffffff; letter-spacing: 1.2px; }
+    .status { font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, monospace; font-size: 11px; fill: #00d2ff; letter-spacing: 0.8px; }
+    .body-txt { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; fill: #94a3b8; }
+    .tl-date-act { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 10px; fill: #00d2ff; }
+    .tl-role-act { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 700; fill: #ffffff; }
+    .tl-co-act { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11px; fill: #00d2ff; }
+    .tl-date { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 9.5px; fill: #475569; }
+    .tl-role { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12.5px; font-weight: 700; fill: #cbd5e1; }
+    .tl-co { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11px; fill: #475569; }
+    .pill-box { fill: #071622; stroke: #0d4a66; stroke-width: 1; rx: 4; }
+    .pill-txt { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 9.5px; fill: #00d2ff; letter-spacing: 0.6px; }
+    .vr-txt { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 7.5px; font-weight: 700; fill: #cbd5e1; letter-spacing: 0.8px; }
+    .prompt { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 18px; font-weight: 700; fill: #00d2ff; }
+    .blink { animation: pulse 1.2s step-end infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+  </style>
+
+  <rect class="bg" width="880" height="280" rx="10" />
+
+  <text x="24" y="28" class="bg-sym">()</text>
+  <text x="420" y="24" class="bg-sym">&amp;&amp;</text>
+  <text x="842" y="42" class="bg-sym">[]</text>
+  <text x="14" y="266" class="bg-sym">def</text>
+  <text x="845" y="268" class="bg-sym">!=</text>
+
+  <text x="36" y="34">
+    <tspan class="sys-title">SYSTEM </tspan>
+    <tspan class="sys-data">DATA</tspan>
+  </text>
+  <text x="844" y="33" text-anchor="end" class="sys-log">ARCHIVE_LOG // DADEJECOVA_V2</text>
+  <line x1="36" y1="45" x2="844" y2="45" stroke="#112a3d" stroke-width="1" />
+
+  <rect class="card" x="36" y="56" width="808" height="204" rx="8" />
+  <rect x="37" y="57" width="806" height="202" rx="7" fill="url(#blueprint)" />
+  <rect x="37" y="56" width="806" height="2" rx="1" fill="url(#arena-grad)" />
+
+  <line x1="275" y1="56" x2="275" y2="260" stroke="#12374c" stroke-width="1" />
+
+  <rect x="48" y="70" width="214" height="58" rx="4" fill="url(#active-bg)" />
+  <rect x="48" y="70" width="3" height="58" fill="#00d2ff" />
+  <text x="62" y="87" class="tl-date-act">2024 - Present</text>
+  <text x="62" y="104" class="tl-role-act">Technical Analyst</text>
+  <text x="62" y="119" class="tl-co-act">Interagua Ecuador</text>
+
+  <text x="62" y="150" class="tl-date">2019 - 2024</text>
+  <text x="62" y="166" class="tl-role">Data Analyst &amp; Dev</text>
+  <text x="62" y="180" class="tl-co">Escuela ISA</text>
+
+  <text x="62" y="210" class="tl-date">2016 - 2019</text>
+  <text x="62" y="226" class="tl-role">Backend Developer</text>
+  <text x="62" y="240" class="tl-co">XPATIAL</text>
+
+  <text x="304" y="96" class="prompt">&gt;<tspan class="blink">_</tspan></text>
+  <text x="336" y="96" class="h1">DANIEL COELLO</text>
+  <text x="336" y="114" class="status">STATUS: ACTIVE // GUAYAQUIL, ECUADOR (UTC-5)</text>
+
+  <circle cx="792" cy="96" r="28" fill="#0d1522" stroke="url(#vr-ring)" stroke-width="1.5" />
+  <text x="792" y="93" text-anchor="middle" font-family="ui-monospace, monospace" font-size="13" font-weight="700" fill="#00d2ff">&gt;_</text>
+  <text x="792" y="107" text-anchor="middle" class="vr-txt">VR_READY</text>
+
+  <text x="304" y="146" class="body-txt">Software Engineer focused on data pipelines, backend systems, and full-stack</text>
+  <text x="304" y="166" class="body-txt">architectures that run quietly without midnight surprises.</text>
+  <text x="304" y="194" class="body-txt">Creator of dadejecova.com — interactive courses &amp; Wasm Code Arena.</text>
+
+  <line x1="304" y1="214" x2="820" y2="214" stroke="#112a3d" stroke-width="1" />
+
+  <rect class="pill-box" x="304" y="226" width="64" height="20" />
+  <text x="336" y="239" text-anchor="middle" class="pill-txt">PYTHON</text>
+
+  <rect class="pill-box" x="376" y="226" width="84" height="20" />
+  <text x="418" y="239" text-anchor="middle" class="pill-txt">RUST / AXUM</text>
+
+  <rect class="pill-box" x="468" y="226" width="110" height="20" />
+  <text x="523" y="239" text-anchor="middle" class="pill-txt">NEXT.JS / TS</text>
+
+  <rect class="pill-box" x="586" y="226" width="84" height="20" />
+  <text x="628" y="239" text-anchor="middle" class="pill-txt">POSTGRESQL</text>
+
+  <rect class="pill-box" x="678" y="226" width="96" height="20" />
+  <text x="726" y="239" text-anchor="middle" class="pill-txt">WASM / DOCKER</text>
+</svg>
