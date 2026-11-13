@@ -30,11 +30,8 @@ Day to day, most of my work is about taking messy operational workflows and scat
 - **WebAssembly** — Experimenting with running sandboxed Python directly in the browser using Pyodide Web Workers.
 
 ### Projects
-
-- **[dadejecova.com](https://dadejecova.com) ([dadejecova_V01](https://github.com/dadejecova/dadejecova_V01))**  
-  My live portfolio and full-stack web platform. Built as a monorepo with Next.js, Django 5, PostgreSQL, stateless JWT authentication, and Docker.
-
-- **[dadejecova.com](https://dadejecova.com) ([dadejecova_V02])**
+- **[dadejecova.com](https://dadejecova.com)**
+  My live portfolio and full-stack web platform.
 
 - **[poke-analytics-fastapi](https://github.com/dadejecova/poke-analytics-fastapi)**  
   Containerized data exploration app backed by FastAPI, SQLAlchemy, and Streamlit. I built this as the companion project for my YouTube series on structuring Python microservices.
