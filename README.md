@@ -40,7 +40,7 @@ Day to day, most of my work is about taking messy operational workflows and scat
 - **[poke-analytics-fastapi](https://github.com/dadejecova/poke-analytics-fastapi)**  
   Containerized data exploration app backed by FastAPI, SQLAlchemy, and Streamlit. I built this as the companion project for my YouTube series on structuring Python microservices.
 
-- **[catculator.co](https://catculator.co)**  
+- **[catculator.co](https://catculator.co)**  (on currect rework implementing game development tools)
   A web tool I built to map and visualize cryptocurrency wallet networks so transaction graphs are easier to read than raw block explorer tables.
 
 ### Principles
