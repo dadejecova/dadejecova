@@ -34,8 +34,7 @@ Day to day, most of my work is about taking messy operational workflows and scat
 - **[dadejecova.com](https://dadejecova.com) ([dadejecova_V01](https://github.com/dadejecova/dadejecova_V01))**  
   My live portfolio and full-stack web platform. Built as a monorepo with Next.js, Django 5, PostgreSQL, stateless JWT authentication, and Docker.
 
-- **dadejecova v2** *(Work in Progress)*  
-  An ongoing rewrite of my personal site that I am using as a sandbox to build a decoupled Rust/Axum backend and test out an interactive browser-based code editor and tutorial layout.
+- **[dadejecova.com](https://dadejecova.com) ([dadejecova_V02])**
 
 - **[poke-analytics-fastapi](https://github.com/dadejecova/poke-analytics-fastapi)**  
   Containerized data exploration app backed by FastAPI, SQLAlchemy, and Streamlit. I built this as the companion project for my YouTube series on structuring Python microservices.
